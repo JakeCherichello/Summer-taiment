@@ -1,4 +1,17 @@
 body {
-background-image: url("images/Background.jpg");
+background-image: url("images/BACKGROUND1.jpg");
 }
 
+h1{
+    text-align: center; 
+    font-size: 180px;
+    color:aliceblue;
+    font-family: 'Lora', serif;
+ }
+ 
+ 
+ .nav-link {
+     color: grey;
+     font-size: 40px;
+     font-family: 'Lora', serif;
+ }
