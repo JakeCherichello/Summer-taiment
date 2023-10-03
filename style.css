@@ -9,9 +9,17 @@ h1{
     font-family: 'Lora', serif;
  }
  
- 
+ h2{
+    text-align: left; 
+    font-size: 22px;
+    color:aliceblue;
+    font-family: 'Lora', serif;
+    padding-top: 20px;
+ }
+
  .nav-link {
      color: grey;
      font-size: 40px;
      font-family: 'Lora', serif;
  }
+
